@@ -1,1 +1,1 @@
-git is a good software file system 
+git is a free and good software file system 
